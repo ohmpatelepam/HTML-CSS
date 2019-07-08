@@ -1,0 +1,132 @@
+            body{
+               
+                margin: 0px;
+                padding: 0px;
+                font-family: Arial, Helvetica, sans-serif;	
+            }
+            aside{
+                
+                
+                float: right;
+                width: 20%;
+                height: 100%;
+                margin-right: 25px;
+
+                
+            }	
+            header{
+                
+                width: 100%;
+                height: 80px;
+                background-color: #082759;	
+                color: white;
+                padding-top: 35px;
+                
+            }
+            footer{
+                
+                
+                background-color: #082759;
+                width: 100%;
+                color: white;
+                text-align: center;
+                height: 90px;
+                
+            }
+            img{
+                width:200px;
+                height: 218px;
+                float: left;
+                background-color: lightgray;
+            }
+            .title{
+                color: #082759;
+            }
+            img{
+                margin-right: 30px;
+
+
+            }
+            .posted{
+                opacity: 0.5;
+            }
+            .subscript{
+                margin-top: -21px;
+            }
+            .content-div{
+                margin-left: 20px;
+                width: 70%;
+                
+                
+            }
+            .inside-div{
+                margin-bottom: 30px;
+            }
+            .subhead{
+                    font-style: italic;
+                    font-size: 15px;
+                    margin-left: 20px;
+            }
+            #head{
+                margin-left: 40px;
+                margin-top: 0px;
+                align-content: center;
+                
+            }
+            .button{
+
+                border: 1px;
+                width: 130px;
+                height: 35px;
+                border-color: #ab3c20;
+                background-color:#ab3c20;
+                font-size: 12px;
+                color: white;
+                margin-top: 18px;
+
+            }
+            #dropdown{
+                width: 90%;
+                height: 40px;
+                border: 2px solid black;
+                border-width: 2px;
+                margin-bottom: 18px
+                
+            }
+            #side-panel-subscribe-text{
+                font-size: 15px;
+                margin-bottom: -1px;
+                
+            }
+            #input{
+               
+                width: 65%;
+                height: 35px;
+                border: 2px solid black;
+                margin: 0px;
+                
+               
+            }
+            #subscribe-button{
+               
+                width: 65px;
+                height: 41px;
+                background-color: black;
+                color: white;
+                border: 2px solid black;
+                position: relative;
+                margin-left: -4px; 
+                padding: 0px;              
+                
+            }
+            .footer1{
+                
+                font-size: 15px;
+                padding-top: 30px;
+                
+                
+            }
+                    
+
+                            
+        </style>
