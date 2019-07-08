@@ -25,12 +25,12 @@ footer {
 	width: 100%;
 	color: white;
 	text-align: center;
-	height: 70px;
+	height: 57px;
 }
 
 img {
 	width: 200px;
-	height: 246px;
+	height: 200px;
 	float: left;
 	background-color: lightgray;
 	margin-right: 30px;
@@ -60,7 +60,7 @@ img {
 
 .subhead {
 	font-style: italic;
-	font-size: 15px;
+	font-size: 11px;
 	margin-left: 20px;
 }
 
@@ -78,14 +78,17 @@ img {
 	background-color: #ab3c20;
 	font-size: 12px;
 	color: white;
-	margin-top: 18px;
+    margin-top: 18px;
+    top: -16px;
+    left: 1px;
+    position: relative;
 }
 
 #dropdown {
 	width: 98%;
 	height: 34px;
 	border: 2px solid black;
-	border-width: 2px;
+	border-width: 1px;
 	margin-bottom: 18px
 }
 
@@ -97,13 +100,13 @@ img {
 #input {
 	width: 65%;
 	height: 34px;
-	border: 2px solid black;
+	border: 1px solid black;
 	margin: 0px;
 }
 
 #subscribe-button {
-	width: 59px;
-	height: 40px;
+	width: 62px;
+	height: 38px;
 	background-color: black;
 	color: white;
 	border: solid black;
@@ -114,5 +117,10 @@ img {
 
 .footer1 {
 	font-size: 15px;
-	padding-top: 30px;
+	padding-top: 21px;
+}
+
+.lorem{
+    font-family: Candara,Calibri,Segoe,Segoe UI,Optima,Arial,sans-serif;
+    
 }
